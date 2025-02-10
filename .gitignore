@@ -35,3 +35,4 @@ eggs/
 *.swo
 *~
 tmp/
+test.db
